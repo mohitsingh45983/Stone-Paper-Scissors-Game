@@ -38,3 +38,6 @@
     7.Same move: Draw
     8.Update Score: Increment the score for the user or the computer based on the result.
     9.Display Result: Show the result of the round and update the scoreboard.
+
+#Conclusion
+The Stone Paper Scissors game is a simple yet fun web application that allows users to engage in the classic game against a computer opponent. With an intuitive interface, smooth interactions, and real-time score tracking, it offers an enjoyable experience for users of all ages. The project demonstrates the use of basic web technologies to create interactive and user-friendly applications.
